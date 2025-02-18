@@ -379,7 +379,7 @@ address {
     .hero {
         background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url(../images/hero/hero_mob@2px.jpg);
+            url(../images/bgc_hero@2px.jpg);
     }
 }
 
@@ -389,7 +389,7 @@ address {
         padding: 112px 0;
         background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url(../images/hero/hero_tablet@1px.jpg);
+            url(../images/bgc_hero@2px.jpg);
     }
 
     @media (min-resolution: 192dpi),
@@ -397,7 +397,7 @@ address {
         .hero {
             background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                     rgba(46, 47, 66, 0.7)),
-                url(../images/hero/hero_tablet@2px.jpg);
+                url(../images/bgc_hero@2px.jpg);
         }
     }
 }
@@ -408,7 +408,7 @@ address {
         padding: 188px 0;
         background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url(../images/hero/hero_desk@1px.jpg);
+            url(../images/bgc_hero@1px.jpg);
     }
 
     @media (min-resolution: 192dpi),
@@ -416,7 +416,7 @@ address {
         .hero {
             background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                     rgba(46, 47, 66, 0.7)),
-                url(../images/hero/hero_desk@2px.jpg);
+                url(../images/bgc_hero@2px.jpg);
         }
     }
 }
