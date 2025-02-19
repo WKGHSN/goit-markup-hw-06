@@ -324,6 +324,7 @@ address {
     line-height: 1.16667;
     letter-spacing: 0.04em;
     color: #434455;
+    
 }
 
 @media only screen and (min-width: 1158px) {
@@ -1202,7 +1203,6 @@ address {
     display: flex;
     flex-direction: column;
     height: 100%;
-    margin: 0 auto;
 }
 
 .mobile-nav {
@@ -1224,6 +1224,13 @@ address {
     color: #404bbf;
 }
 
+.mobile-menu-contacts {
+font-weight: 400;
+    font-size: 12px;
+    line-height: 1.16667;
+    letter-spacing: 0.04em;
+    color: #434455;
+}
 .menu-contacts-link {
     font-size: 20px;
 
